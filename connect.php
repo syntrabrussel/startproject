@@ -1,3 +1,3 @@
 <?php
-Db::setConnectionInfo('mijndatabank', 'root','rootpass','mysql','localhost'); 
+Db::setConnectionInfo('schema', 'user','pw','mysql','localhost'); 
 ?>
